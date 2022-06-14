@@ -1,0 +1,70 @@
+{
+  "expo": {
+    "name": "Pyxy",
+    "slug": "pyxy",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./app/assets/animations/icon500.png",
+    "splash": {
+      "image": "./app/assets/animations/icon1200.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.Pyxy.Pyxy",
+      "buildNumber": "12",
+      "config": {
+        "googleMapsApiKey": "***",
+        "googleSignIn": {
+          "reservedClientId": "***"
+        }
+      },
+      "googleServicesFile": "./app/assets/GoogleService-Info.plist",
+      "usesAppleSignIn": true
+    },
+    "androidNavigationBar": {
+         "visible": "sticky-immersive",
+         "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.Pyxy.Pyxy",
+      "permissions": [],
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBxrwtuRohx_UvCyveJ7Zu0oRwpVMj74KQ"
+        }
+      },
+      "versionCode": 13,
+      "googleServicesFile": "./app/assets/google-services.json"
+    },
+    "facebookScheme": "***",
+    "facebookAppId": "***",
+    "facebookDisplayName": "Pyxy",
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "expo.ts",
+        "expo.tsx",
+        "expo.js",
+        "expo.jsx",
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "wasm",
+        "svg"
+      ]
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

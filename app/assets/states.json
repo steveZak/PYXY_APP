@@ -1,0 +1,212 @@
+{
+  "countries":
+    {
+      "US": [
+        {
+          "label": "Alabama",
+          "value": "AL"
+        },
+        {
+          "label": "Alaska",
+          "value": "AK"
+        },
+        {
+          "label": "Arizona",
+          "value": "AZ"
+        },
+        {
+          "label": "California",
+          "value": "CA"
+        },
+        {
+          "label": "Colorado",
+          "value": "CO"
+        },
+        {
+          "label": "DC",
+          "value": "DC"
+        },
+        {
+          "label": "Florida",
+          "value": "FL"
+        },
+        {
+          "label": "Georgia",
+          "value": "GA"
+        },
+        {
+          "label": "Hawaii",
+          "value": "HI"
+        },
+        {
+          "label": "Illinois",
+          "value": "IL"
+        },
+        {
+          "label": "Kentucky",
+          "value": "KY"
+        },
+        {
+          "label": "Louisiana",
+          "value": "LA"
+        },
+        {
+          "label": "Maryland",
+          "value": "MD"
+        },
+        {
+          "label": "Massachusetts",
+          "value": "MA"
+        },
+        {
+          "label": "Michigan",
+          "value": "MI"
+        },
+        {
+          "label": "Minnesota",
+          "value": "MN"
+        },
+        {
+          "label": "Mississipi",
+          "value": "MS"
+        },
+        {
+          "label": "Missouri",
+          "value": "MO"
+        },
+        {
+          "label": "Nevada",
+          "value": "NV"
+        },
+        {
+          "label": "New Mexico",
+          "value": "NM"
+        },
+        {
+          "label": "New York",
+          "value": "NY"
+        },
+        {
+          "label": "North Carolina",
+          "value": "NC"
+        },
+        {
+          "label": "Ohio",
+          "value": "OH"
+        },
+        {
+          "label": "Oklahoma",
+          "value": "OK"
+        },
+        {
+          "label": "Oregon",
+          "value": "OR"
+        },
+        {
+          "label": "Pennsylvania",
+          "value": "PA"
+        },
+        {
+          "label": "Puerto Rico",
+          "value": "PR"
+        },
+        {
+          "label": "Rhode Island",
+          "value": "RI"
+        },
+        {
+          "label": "South Carolina",
+          "value": "SC"
+        },
+        {
+          "label": "Tennessee",
+          "value": "TN"
+        },
+        {
+          "label": "Texas",
+          "value": "TX"
+        },
+        {
+          "label": "Utah",
+          "value": "UT"
+        },
+        {
+          "label": "Virginia",
+          "value": "VA"
+        },
+        {
+          "label": "Washington",
+          "value": "WA"}
+      ],
+      "GB": [
+        {
+          "label": "England",
+          "value": "EN"
+        },
+        {
+          "label": "Northern Ireland",
+          "value": "NI"
+        },
+        {
+          "label": "Scotland",
+          "value": "SC"
+        },
+        {
+          "label": "Wales",
+          "value": "WA"
+        }
+      ],
+      "CA": [
+        {
+          "label": "Alberta",
+          "value": "AB"
+        },
+        {
+          "label": "British Columbia",
+          "value": "BC"
+        },
+        {
+          "label": "Manitoba",
+          "value": "MB"
+        },
+        {
+          "label": "Northwest Territories",
+          "value": "NT"
+        },
+        {
+          "label": "Ontario",
+          "value": "ON"
+        },
+        {
+          "label": "Quebec",
+          "value": "QC"
+        }
+      ],
+      "AU": [
+        {
+          "label": "Capital Territory",
+          "value": "CT"
+        },
+        {
+          "label": "Queensland",
+          "value": "QL"
+        },
+        {
+          "label": "South Australia",
+          "value": "SA"
+        },
+        {
+          "label": "New South Wales",
+          "value": "SW"
+        },
+        {
+          "label": "Victoria",
+          "value": "VI"
+        },
+        {
+          "label": "Western Australia",
+          "value": "WA"
+        }
+      ]
+    }
+}
